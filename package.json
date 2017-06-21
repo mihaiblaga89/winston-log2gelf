@@ -22,6 +22,7 @@
     "url": "https://github.com/Buzut/winston-log2gelf/issues"
   },
   "dependencies": {
-    "winston": "^2.2.0"
+    "winston": "^2.2.0",
+    "net-socket-reconnect": "^0.0.9"
   }
 }
